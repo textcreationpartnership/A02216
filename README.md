@@ -32,9 +32,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An Oration or funerall sermon vttered at Roome, at the buriall of the holy Father Gregorie the 13. w
+
+1. ¶To the Courteous and Christian Reader.
+
+1. In Papam Theodori Bezae Carmen.
+In eundem.Non Pontifex, sed Potifex:Non Potifex, sed Panifex:Non Panifex, sed Carnifex.Est Papa, Pat
 #####Body#####
-An Oration or funerall sermon vttered at Roome, at the buriall of the holy Father Gregorie the 13. w
+
+1. An Oration and Funerall Sermon vttered ouer the Corps of the holie Father Pope Gregorie the xiij. who deceased in Iesus Christ the 11. of Aprill. 1585.
+
 **Types of content**
 
   * There are 14 **verse** lines!
